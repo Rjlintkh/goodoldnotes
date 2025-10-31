@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+   "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+      <key>assets</key>
+      <array>
+        <dict>
+          <key>kind</key>
+          <string>software-package</string>
+          <key>url</key>
+          <string>https://my.microsoftpersonalcontent.com/personal/c8fd840567acb4d8/_layouts/15/download.aspx?UniqueId=4c5e8a23-dab8-43cb-b150-39d87c09fd2f&Translate=false&tempauth=v1e.eyJzaXRlaWQiOiI1MzA4ZThjNi1kMjk5LTQ5MGYtOTYxZC1jMDhjNDdmNDAxZTUiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvbXkubWljcm9zb2Z0cGVyc29uYWxjb250ZW50LmNvbUA5MTg4MDQwZC02YzY3LTRjNWItYjExMi0zNmEzMDRiNjZkYWQiLCJleHAiOiIxNzYxOTM1NTE2In0.D1FiGzoCfcEiTvkM5gdhJmp4EkLMQryErDmhqr0teXAiuOevowCr0xEaEuNdMIt2YyIjIYIwan5gnwtvZmVga6DuYu7beid3nrM4sxZ0ZJiPsMk8jDNntU_bFUVPVpeF2MB9Et_BnaBBhWzBiGjLJRPkcvGUU6HbFAWECfKTSwCRN1Xg4dVEz_3iacUj2D8PP8nAxrQtkL8yy5wiex6j6YPiPEpLbwdJKd-qIJZeHBwCKTpZzvERhBN9IEVh4w0SY2wX-0eGQ5IwNupSRtJRynfLLzqHymOSdmZMtnld74zrT9lvA1MU2Y0nil62QF8Emfq6fj8awKpxsUFSu55c2l5nvvT5-B73D4Ucd9_A9fRLsMXVEyzdKb7FaMO46ZW0CRBYHsAl5Z9SJoFjJhCwa-15gzPGT3xYzm5IzueXy9Jcs9yuyRRs_WOkIipaQIjTlOxKzlIUm7pT2dGkPjUFqAyOlpLy0ZKIstQ27xcIvPQWvn_QHjkV39e8P-9Z6bcCAZQjJOjbbSKImI4vFSvPQA.L9KjYwkjUA2awZgz3-Jw5eJBfjK_RhWT38_rK9KpHh8&ApiVersion=2.0</string>
+        </dict>
+      </array>
+      <key>metadata</key>
+      <dict>
+        <key>bundle-identifier</key>
+        <string>com.goodnotesapp.x</string>
+        <key>bundle-version</key>
+        <string>6.7.10</string>
+        <key>kind</key>
+        <string>software</string>
+        <key>title</key>
+        <string>BadNotes</string>
+      </dict>
+    </dict>
+  </array>
+</dict>
+</plist>
